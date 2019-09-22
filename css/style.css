@@ -1,0 +1,23 @@
+/*
+Hai Clover 
+https://www.facebook.com/haiclover.ptit
+ */
+html,body,h1,h2,h3,h4
+{
+	font-family: 'Exo', sans-serif;
+}
+.navbar
+{
+	border-radius: 22px;
+	background: white!important;
+}
+#btn-login
+{
+	background: #880000!important;
+	border: #880000!important;
+}
+#btn-login:hover
+{
+	background:black!important;
+	border: !important;
+}
